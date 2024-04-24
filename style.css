@@ -1,0 +1,38 @@
+body{
+    background-color: #cae5e9;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.groupPhoto{
+    display: flex;
+    width: 30vw;
+}
+.turbine{
+    display: flex;
+    width: 30vw;
+}
+.arduino{
+    display: flex;
+}
+.voltageGraph{
+    display: flex;
+    width: 30vw;
+}
+.arduinoCode{
+    display: flex;
+    width: 30vw;
+}
+
+
+
+h1, h2{
+    font-family: "Bebas Neue", sans-serif;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
